@@ -326,20 +326,26 @@ export default {
              color: #BFBFC3;
          }
          .subject_body_div3_one {
+
+             font-size: 0.8rem;
              text-align: center;
              color: white;
              .subject_body_div3_one_span_one {
+                 padding-top: 0.2rem;
                  background-color: #17C896;
              }
              .subject_body_div3_one_span_two {
+                  padding-top: 0.2rem;
                  background-color: #E0A0A0;
                  margin-left: 0.5rem; 
              }
              .subject_body_div3_one_span_three {
+                  padding-top: 0.2rem;
                  background-color: #ECC896;
                   margin-left: 0.5rem; 
              }
              .subject_body_div3_one_span_four {
+                  padding-top: 0.18rem;
                  background-color: #C5A9DD; 
                   margin-left: 0.5rem;
              }

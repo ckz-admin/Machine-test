@@ -2,6 +2,8 @@
 
 > this is a machine-test
 
+在线预览地址：https://ckz-1301576051.cos.ap-chengdu.myqcloud.com/MachineTest/index.html
+
 ## Build Setup
 
 ``` bash

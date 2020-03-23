@@ -13,7 +13,6 @@ export default {
 
 
 <style lang="less">
-  @import url('../static/css/normalize.min.css');
   // @import url('../static/css/mp.css');
   #app {
     overflow: hidden;

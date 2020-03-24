@@ -2,7 +2,7 @@
 
 > this is a machine-test
 
-在线预览地址(移动端预览-pc没搞有点丑)：https://ckz-1301576051.cos.ap-chengdu.myqcloud.com/MachineTest/index.html
+在线预览地址(移动端预览-pc没搞有点丑)：https://ckz-1301576051.cos.ap-chengdu.myqcloud.com/MachineTest/index.html#/
 
 ## Build Setup
 
